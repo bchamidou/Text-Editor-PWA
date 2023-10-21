@@ -77,12 +77,14 @@ The installation can be completed by following these instructions:
 * Repository link : https://github.com/bchamidou/Text-Editor-PWA
 
 2. Install the required dependencies from the root directory by running the following command in the terminal:
+   
     npm i && npm run build
 
-3. Start the app by running the following command in your terminal, this command will start both the server and the webpack development server concurrently, allowing you to see the application in your browser:
+4. Start the app by running the following command in your terminal, this command will start both the server and the webpack development server concurrently, allowing you to see the application in your browser:
+   
     npm run start:dev
 
-4. Once the development server is running, you should be able to access the application by opening your web browser and navigating to the specified URL: http://localhost:3000 .
+6. Once the development server is running, you should be able to access the application by opening your web browser and navigating to the specified URL: http://localhost:3000 .
 
 ## Usage 
 ***
