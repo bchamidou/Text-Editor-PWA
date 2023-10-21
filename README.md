@@ -70,7 +70,7 @@ THEN I should have proper build scripts for a webpack application
 The installation can be completed by following these instructions:
 
 ***Requirments***
-[Node.js](https://nodejs.org/en/)|[Express] https://www.npmjs.com/package/express  | [Nodemon](https://www.npmjs.com/package/Nodemon) | [Webpack](https://www.npmjs.com/package/Webpack) | [Babel](https://www.npmjs.com/package/Babel) | [Manifest.json](https://www.npmjs.com/package/Manifest.json) | [IndexedDB](https://www.npmjs.com/package/IndexedDB) | [Heroku](https://www.heroku.com)
+[Node.js](https://nodejs.org/en/) | [Express](https://www.npmjs.com/package/express) | [Nodemon](https://www.npmjs.com/package/Nodemon) | [Webpack](https://www.npmjs.com/package/Webpack) | [Babel](https://www.npmjs.com/package/Babel) | [Manifest.json](https://www.npmjs.com/package/Manifest.json) | [IndexedDB](https://www.npmjs.com/package/IndexedDB) | [Heroku](https://www.heroku.com)
 
 
 1. Clone the GitHub repository to you local computer. Click on the following link.
